@@ -1,0 +1,13 @@
+h1 {
+  color: yellowgreen;
+}
+
+footer {
+  background-color: #444;
+}
+footer h4 {
+  color: red;
+}
+footer h4 a {
+  color: blue;
+}
